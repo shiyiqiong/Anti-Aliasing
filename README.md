@@ -48,3 +48,11 @@ FXAA（快速近似抗锯齿）原理：
 SMAA（亚像素形态抗锯齿）原理：
 *** 
 参考资料：
+
+https://zhuanlan.zhihu.com/p/415087003
+
+https://zhuanlan.zhihu.com/p/425233743
+
+https://zhuanlan.zhihu.com/p/431384101
+
+https://zhuanlan.zhihu.com/p/342211163
